@@ -1,0 +1,11 @@
+span#pending-total-tasks-counter, span#total-site-management-tasks-counter, span#pending-membership-requests-counter {
+	color: 				white;
+	background:			red;
+	border-radius: 		0.3em;
+	padding:			0em;
+	text-shadow:		none;
+	float:				left;
+	text-align:			center;
+	min-width:			1.5em;
+	margin-right:		0.5em;
+}
